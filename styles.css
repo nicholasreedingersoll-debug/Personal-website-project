@@ -1,0 +1,92 @@
+body {
+  background-color: rgb(12, 12, 12);
+}
+
+h1 {
+  border:rgb(62, 126, 62);
+  border-width: 10px;
+  border-style: solid dashed double double;
+  border-radius: 20px;
+  background-color: rgb(62, 126, 62, 0.2);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-color: rgb(62, 126, 62);
+  background-clip: border-box;
+  color: grey;
+}
+
+h4 {
+  color: grey;
+}
+
+h3 {
+  color: grey;
+}
+
+.base-links {
+  color: rgb(62, 126, 62);
+  text-align: center;
+  text-decoration: none;
+  transition: 500ms ease;
+}
+
+.base-links:hover {
+  color: purple;
+  text-decoration: underline;
+  font-size: 22px;
+}
+
+.fun-links {
+  color:rgb(29, 61, 29);
+  text-decoration: none;
+  transition: 500ms ease;
+}
+
+.fun-links:hover {
+  color: purple;
+  text-decoration: underline;
+  font-size: 22px;
+}
+
+h6 {
+  color: grey;
+}
+
+ul {
+  color: grey;
+}
+
+p {
+  color: grey;
+}
+
+.pong {
+  color:rgb(23, 23, 23);
+  text-decoration: none;
+  transition: 500ms ease;
+}
+
+.pong:hover {
+  color: rgb(161, 161, 161);
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+.Nirvana {
+  color: yellow;
+  text-decoration: none;
+  transition: 500ms ease;
+}
+
+.Nirvana:hover {
+  color: red;
+  text-decoration: underline;
+  font-size: 18px;
+}
+
+td {
+  color: grey;
+}
+
+tr {
+  color: grey;
+}
