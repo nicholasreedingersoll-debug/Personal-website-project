@@ -90,3 +90,13 @@ td {
 tr {
   color: grey;
 }
+
+.snake {
+			color: gray;
+      text-decoration: none;
+		}
+
+.snake:hover {
+  text-decoration: underline;
+  color: green;
+}
